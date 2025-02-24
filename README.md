@@ -1,2 +1,2 @@
 # Machine-Learning-Basics
-This is a basic Machine Learning practices
+This is basic Machine Learning practices
